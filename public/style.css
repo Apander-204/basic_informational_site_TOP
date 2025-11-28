@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #FFFFFF;
+}
+
+.nav {
+    width: 100vw;
+    height: 96px;
+    background-color: #eaeaea;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.nav-link {
+    width: 94px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+}
+
+.nav-link a {
+    text-decoration: none;
+    color: #333333;
+    font-size: 24px;
+}
+
+.center {
+    width: 100vw;
+    padding-top: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

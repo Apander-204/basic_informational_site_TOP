@@ -23,18 +23,18 @@ basic_informational_site_TOP/
 
 ## 👷‍♂️ How to Build
 ```bash
-# Клонирование репозитория
+# Cloning a repository
 git clone https://github.com/Apander-204/basic_informational_site_TOP.git
 
-# Установка зависимостей
+# Installing dependencies
 cd basic_informational_site_TOP
 npm install
 
-# Создание .env файла
-Создайте .env файл в корневой директории проекта и добавьте в него переменную PORT
-Пример: PORT = 3000
+# Creation .env file
+Create a .env file in the project's root directory and add the PORT variable to it
+Example: PORT = 3000
 
-# Запуск
+# Start
 node index.js
 ```
 
